@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- Background -->
+  <circle cx="256" cy="256" r="256" fill="#1a5f7a"/>
+  
+  <!-- Stylized "L" for Langya -->
+  <path d="M156 126v200h200v60H126V126h30z" fill="#ff9e44" stroke="#ffffff" stroke-width="8"/>
+  
+  <!-- Global connection lines -->
+  <circle cx="256" cy="256" r="100" fill="none" stroke="#57c5b6" stroke-width="12" stroke-dasharray="20,10"/>
+  
+  <!-- Dots representing global presence -->
+  <circle cx="206" cy="176" r="10" fill="#ffffff"/>
+  <circle cx="306" cy="216" r="10" fill="#ffffff"/>
+  <circle cx="256" cy="336" r="10" fill="#ffffff"/>
+  <circle cx="176" cy="266" r="10" fill="#ffffff"/>
+  <circle cx="336" cy="296" r="10" fill="#ffffff"/>
+</svg>
