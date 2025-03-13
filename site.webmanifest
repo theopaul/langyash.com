@@ -1,0 +1,21 @@
+{
+  "name": "Shanghai Langya Trading Co., Ltd.",
+  "short_name": "Langyash",
+  "description": "Soluções de comércio global premium e especialistas em exportação da China",
+  "icons": [
+    {
+      "src": "assets/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#1a5f7a",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/"
+}
